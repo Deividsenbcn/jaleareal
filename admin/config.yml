@@ -16,7 +16,7 @@ collections:
     folder: "articulos"
     create: true
     slug: "{{slug}}"
-    extension: "html"
+    extension: "md"
     format: "frontmatter"
     fields:
       - { label: "Título", name: "title", widget: "string" }
