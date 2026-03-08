@@ -4,7 +4,7 @@ backend:
   branch: main
   auth_type: pkce
   app_id: Ov23liKO2eVN2oziYMjQ
-
+ 
 media_folder: "assets/img"
 public_folder: "/assets/img"
 
