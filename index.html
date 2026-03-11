@@ -1,76 +1,71 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Descubre los mejores productos apícolas: jalea real, propóleo y miel cruda. Análisis, propiedades y guías de compra.">
-    <title>JaleaReal.com - El poder de la colmena</title>
-     
-    <!--el Enlace al archivo CSS externo -->
-    <link rel="stylesheet" href="/css/style.css">
-    
-    <!-- Aquí irán el Favicon y fuentes externas más adelante -->
-    <link rel="icon" type="image/x-icon" href="/favicon.ico"/>
+---
+layout: default
+title: Inicio
+description: Descubre los mejores productos apícolas. Análisis, propiedades y guías de compra.
+---
 
-</head>
-<body>
+<section class="hero">
+    <div class="hero-inner">
+        <p class="hero-label">100% Natural</p>
+        <h1>El poder natural<br>de la colmena</h1>
+        <p>Análisis, propiedades y guías de compra de jalea real, propóleo, miel y mucho más.</p>
+        <a href="#articulos" class="btn btn-primary">Ver artículos</a>
+    </div>
+</section>
 
-    <header class="site-header">
-        <div class="header-content">
-            <h1 class="logo">🍯 JaleaReal.com</h1>
-            <nav class="main-nav">
-                <a href="/">Inicio</a>
-                <a href="/articulos/jalea-real.html">Jalea Real</a>
-                <a href="/articulos/propoleo.html">Propóleo</a>
-                <a href="/articulos/miel.html">Miel Cruda</a>
-            </nav>
+<section class="section" id="categorias">
+    <div class="section-inner">
+        <p class="section-label">Explora</p>
+        <h2 class="section-title">Categorías</h2>
+        <p class="section-subtitle">Todo sobre los productos de la colmena</p>
+        <div class="categories-grid">
+            <a href="/categoria/jalea-real/" class="category-card">
+                <div class="icon">👑</div>
+                <h3>Jalea Real</h3>
+            </a>
+            <a href="/categoria/propoleo/" class="category-card">
+                <div class="icon">🛡️</div>
+                <h3>Propóleo</h3>
+            </a>
+            <a href="/categoria/miel/" class="category-card">
+                <div class="icon">🍯</div>
+                <h3>Miel</h3>
+            </a>
+            <a href="/categoria/recetas/" class="category-card">
+                <div class="icon">🍽️</div>
+                <h3>Recetas</h3>
+            </a>
+            <a href="/categoria/curiosidades/" class="category-card">
+                <div class="icon">🐝</div>
+                <h3>Curiosidades</h3>
+            </a>
         </div>
-    </header>
+    </div>
+</section>
 
-    <section class="hero">
-        <div class="hero-content">
-            <h2>El poder natural de la colmena</h2>
-            <p>Descubre los mejores productos apícolas para cuidar tu salud y tus defensas. Análisis, propiedades y guías de compra detalladas.</p>
-            <a href="#productos" class="btn btn-primary">Ver guías de compra</a>
+<section class="section" id="articulos" style="background: #FFF8EE;">
+    <div class="section-inner">
+        <p class="section-label">Lo más reciente</p>
+        <h2 class="section-title">Últimos artículos</h2>
+        <p class="section-subtitle">Guías, análisis y recetas actualizadas</p>
+        <div class="cards-grid">
+            {% for post in site.posts limit:6 %}
+            <article class="card">
+                {% if post.thumbnail %}
+                <img src="{{ post.thumbnail }}" alt="{{ post.title }}" class="card-image">
+                {% else %}
+                <div class="card-image-placeholder">🍯</div>
+                {% endif %}
+                <div class="card-body">
+                    {% if post.categories %}
+                    <p class="card-category">{{ post.categories | first }}</p>
+                    {% endif %}
+                    <h3 class="card-title">{{ post.title }}</h3>
+                    <p class="card-excerpt">{{ post.description | default: post.excerpt | strip_html | truncate: 120 }}</p>
+                    <a href="{{ post.url }}" class="card-link">Leer más →</a>
+                </div>
+            </article>
+            {% endfor %}
         </div>
-    </section>
-
-    <main id="productos" class="container">
-        <article class="card">
-            <div class="card-content">
-                <h3>Jalea Real Fresca</h3>
-                <p>El superalimento de las abejas reinas. Ideal para épocas de cansancio, estrés y para fortalecer el sistema inmunológico.</p>
-                <a href="/articulos/jalea-real.html" class="btn btn-outline">Leer más</a>
-            </div>
-        </article>
-        
-        <article class="card">
-            <div class="card-content">
-                <h3>Propóleo Puro</h3>
-                <p>El escudo protector de la colmena. Descubre sus propiedades antibacterianas y cómo usarlo en invierno.</p>
-                <a href="/articulos/propoleo.html" class="btn btn-outline">Leer más</a>
-            </div>
-        </article>
-        
-        <article class="card">
-            <div class="card-content">
-                <h3>Miel Cruda Ecológica</h3>
-                <p>Miel sin pasteurizar, directamente del panal. Conserva todas sus enzimas, vitaminas y sabor original.</p>
-                <a href="/articulos/miel.html" class="btn btn-outline">Leer más</a>
-            </div>
-        </article>
-    </main>
-
-    <footer class="site-footer">
-        <div class="footer-content">
-            <p>&copy; 2026 JaleaReal.com - Todos los derechos reservados.</p>
-            <div class="footer-links">
-                <a href="/legal/aviso-legal.html">Aviso Legal</a>
-                <a href="/legal/privacidad.html">Privacidad</a>
-                <a href="/legal/cookies.html">Cookies</a>
-            </div>
-        </div>
-    </footer>
-
-</body>
-</html>
+    </div>
+</section>
