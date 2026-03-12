@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Beneficios de la Jalea Real: Guía Completa"
-description: "Descubre todos los beneficios de la jalea real fresca, cómo tomarla correctamente y qué marcas son las mejores del mercado."
+title: 'Beneficios de la Jalea Real: Guía Completa'
+description: Descubre todos los beneficios de la jalea real fresca, cómo tomarla correctamente y qué marcas son las mejores del mercado.
 date: 2026-03-11
-categories: [jalea-real]
+categories: jalea-real
 thumbnail: /assets/img/jalea-real.jpg
+layout: post
 ---
 
 La jalea real es uno de los superalimentos más completos que produce la colmena. En esta guía te contamos todo lo que necesitas saber.
