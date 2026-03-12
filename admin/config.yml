@@ -2,8 +2,7 @@ backend:
   name: github
   repo: Deividsenbcn/jaleareal
   branch: main
-  base_url: https://sveltia-cms-auth.multipreulaplana.workers.dev/
-  
+  base_url: https://sveltia-cms-auth.multipreulaplana.workers.dev
 
 media_folder: "assets/img"
 public_folder: "/assets/img"
@@ -13,14 +12,23 @@ locale: "es"
 collections:
   - name: "articulos"
     label: "Artículos"
-    folder: "articulos"
+    folder: "_posts"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     extension: "md"
     format: "frontmatter"
     fields:
       - { label: "Título", name: "title", widget: "string" }
       - { label: "Descripción SEO", name: "description", widget: "string" }
       - { label: "Fecha", name: "date", widget: "datetime" }
+      - label: "Categoría"
+        name: "categories"
+        widget: "select"
+        options:
+          - { label: "Jalea Real", value: "jalea-real" }
+          - { label: "Propóleo", value: "propoleo" }
+          - { label: "Miel", value: "miel" }
+          - { label: "Recetas", value: "recetas" }
+          - { label: "Curiosidades", value: "curiosidades" }
       - { label: "Imagen destacada", name: "thumbnail", widget: "image", required: false }
       - { label: "Contenido", name: "body", widget: "markdown" }
