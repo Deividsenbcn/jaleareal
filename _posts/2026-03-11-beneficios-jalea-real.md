@@ -3,7 +3,7 @@ title: 'Beneficios de la Jalea Real: Guía Completa'
 description: Descubre todos los beneficios de la jalea real fresca, cómo tomarla correctamente y qué marcas son las mejores del mercado.
 date: 2026-03-12T20:35:00
 categories: jalea-real
-thumbnail: ''
+thumbnail: /assets/img/Jalea_real_bote_espaol_11cf21f51b.jpeg
 layout: post
 ---
 
