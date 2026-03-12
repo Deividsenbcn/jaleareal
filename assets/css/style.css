@@ -91,7 +91,7 @@ a:hover { color: var(--color-accent-dark); }
 .post-content a { color: var(--color-accent); text-decoration: underline; }
 .post-footer { margin-top: 3rem; padding-top: 2rem; border-top: 2px solid var(--color-border); }
 
-/* ===== FOOTER ===== */
+/* ===== FOOTER  ===== */
 .site-footer {
     background: linear-gradient(135deg, #F5E6C8 0%, #EDD9A3 100%);
     color: var(--color-text-soft);
