@@ -29,6 +29,6 @@ collections:
           - { label: "Propóleo", value: "propoleo" }
           - { label: "Miel", value: "miel" }
           - { label: "Recetas", value: "recetas" }
-          - { label: "Curiosidades", value: "curiosidades" }
+          - { label: "Estudios", value: "estudios" }
       - { label: "Imagen destacada", name: "thumbnail", widget: "image", required: false }
       - { label: "Contenido", name: "body", widget: "markdown" }
