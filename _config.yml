@@ -46,8 +46,10 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
-  - admin/
   - google583db37b0e252b65.html
+
+include:
+  - ads.txt  
 
 future: true
 
