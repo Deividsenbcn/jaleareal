@@ -33,7 +33,7 @@ Ya dicho esto, pasemos a enumerar de manera pormenorizada algunos de sus más de
 
 •Incrementa el nivel energético del individuo, por lo cual está especialmente recomendada en caso de convalecientes, ancianos y madres gestantes o lactantes. Asimismo, los adultos con un alto nivel de responsabilidades o una sobrecarga laboral, se verán muy beneficiados con su consumo.
 
-•Otorga mayores posibilidades intelectuales, por lo cual se recomienda su in- gesta en períodos de exámenes.
+•Otorga mayores posibilidades intelectuales, por lo cual se recomienda su ingesta en períodos de exámenes.
 
 •Permite tener mayor resistencia a la fatiga, razón por la que resulta uno de los suplementos nutricionales más indicados para deportistas.
 
@@ -45,13 +45,15 @@ Ya dicho esto, pasemos a enumerar de manera pormenorizada algunos de sus más de
 
 •Potencia las defensas naturales del organismo, con lo que resulta una muy buena ayuda en casos de alergias •Baja la tasa de colesterol en sangre, especialmente la del colesterol “malo” o LDL. •Mejora el estado de las personas cardíacas, entre otras razones, porque tiene acción vasodilatadora.
 
-•Ayuda a combatir la anemia, debido a que asegura la reglobulación. •Provoca un aumento del metabolismo basal, por lo que el cuerpo “trabaja” a mayor velocidad. Entre las consecuencias de ello se encuentra el hecho ya mencionado de que el colesterol desciende; asimismo ese metabolismo basal alto facilita el descenso de peso. Presentaciones
+•Ayuda a combatir la anemia, debido a que asegura la reglobulación. 
+
+•Provoca un aumento del metabolismo basal, por lo que el cuerpo “trabaja” a mayor velocidad. Entre las consecuencias de ello se encuentra el hecho ya mencionado de que el colesterol desciende; asimismo ese metabolismo basal alto facilita el descenso de peso. Presentaciones
 
 •Una de las presentaciones más comunes, fáciles de encontrar y, sin duda alguna, más práctica, es en cápsulas que contienen polvo liofilizado de jalea real. Para lograrlo, se libra a la jalea real de la cera y el polen que habitual- mente contiene, se procede a congelarla y se la deseca, de manera tal de obtener un polvo que pueda ser encapsulado. Además de la practicidad y la comodidad que supone contar con cápsulas de jalea real, el liofilizado de- tiene el proceso de deterioro del producto y se conservan en perfecto estado todos sus nutrientes.
 
 •Otra presentación es la de jalea real pura en pequeños frascos que vienen acompañados de una cucharilla dosificadora. En estos casos, es fundamental conservarla en un lugar oscuro y fresco y consumirla en no más de diez días. Pasado ese lapso, sus propiedades comienzan a diluirse.
 
-•Jalea real mezclada con miel: no se trata de una presentación muy extendida. Tiene la ventaja de que la miel tapa el gusto ácido de la jalea real y la mezcla puede usarse a modo de endulzante, por ejemplo, para la leche o el yogurt, con la ventaja de que además de dulzor se le están incorporando nutrientes fundamentales. En algunos sitios es posible encontrar mezclas de productos del panal verdaderamente extraordinarias en lo que nutrientes se refiere. El caso más paradigmático es el que consta de los cuatro elementos básicos (miel, jalea real, polen y propóleos) y quien tenga la fortuna de hallarlo no debería renunciar al beneficio de consumirlo de cuando en cuando, de modo tal de poner en forma el organismo. 
+•Jalea real mezclada con miel: no se trata de una presentación muy extendida. Tiene la ventaja de que la miel tapa el gusto ácido de la jalea real y la mezcla puede usarse a modo de endulzante, por ejemplo, para la leche o el yogurt, con la ventaja de que además de dulzor se le están incorporando nutrientes fundamentales. En algunos sitios es posible encontrar mezclas de productos del panal verdaderamente extraordinarias en lo que nutrientes se refiere. El caso más paradigmático es el que consta de los cuatro elementos básicos (miel, jalea real, polen y propóleos) y quien tenga la fortuna de hallarlo no debería renunciar al beneficio de consumirlo de cuando en cuando, de modo tal de poner en forma el organismo.
 
 •Por último, también existen productos con un mínimo agregado de jalea real: cremas de belleza, caramelos, productos capilares, etc.
 
