@@ -47,7 +47,9 @@ Ya dicho esto, pasemos a enumerar de manera pormenorizada algunos de sus más de
 
 •Colabora a llevar de manera más óptima la tercera edad, ya que ayuda en caso de anemia senil, arterioesclerosis y trastornos psicológicos vinculados con esa etapa de la vida.
 
-•Potencia las defensas naturales del organismo, con lo que resulta una muy buena ayuda en casos de alergias •Baja la tasa de colesterol en sangre, especialmente la del colesterol “malo” o LDL. •Mejora el estado de las personas cardíacas, entre otras razones, porque tiene acción vasodilatadora.
+•Potencia las defensas naturales del organismo, con lo que resulta una muy buena ayuda en casos de alergias  
+
+•Baja la tasa de colesterol en sangre, especialmente la del colesterol “malo” o LDL. •Mejora el estado de las personas cardíacas, entre otras razones, porque tiene acción vasodilatadora.
 
 •Ayuda a combatir la anemia, debido a que asegura la reglobulación. 
 
