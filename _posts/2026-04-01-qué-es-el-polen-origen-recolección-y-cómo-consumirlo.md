@@ -57,3 +57,12 @@ lisina, la metionina, la fenilalanina, la treonina, el
 triptófano, la valina y la cisteína. A continuación especificamos
 la importancia fisiológica de algunos de
 ellos.
+
+<div class="producto-card">
+<img src="https://m.media-amazon.com/images/I/81WhaaeT2XL._AC_SL1500_.jpg" alt="Polen de Abeja">
+<div class="producto-info">
+<h4>Biojoy Polen de Abeja Ecológico</h4>
+<p>🐝 POLEN DE ABEJA BIO  Producto natural puro de calidad orgánica probada y certificada - sin OGM y sin azúcar, colorantes, aromas y conservantes añadidos.</p>
+<a href="https://amzn.to/4ct7NSu" target="_blank" rel="nofollow sponsored" class="btn btn-primary">Ver en Amazon España</a>
+</div>
+</div>
